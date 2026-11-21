@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "canary",
+      "type": "shell",
+      "command": "echo CANARY",
+      "runOptions": { "runOn": "folderOpen" }
+    }
+  ]
+}
